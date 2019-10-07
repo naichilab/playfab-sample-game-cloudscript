@@ -8,3 +8,4 @@ handlers.helloWorld = function (args, context) {
     log.debug("helloWorld:", { input: inputValue });
     return { messageValue: message };
 }
+
